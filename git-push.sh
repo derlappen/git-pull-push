@@ -1,5 +1,9 @@
-TOKEN="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"
-RepoName="testrepo"
+#!/bin/bash
+
+source config.file
+echo $TOKEN
+echo $RepoName
+
 
 git init
 git remote add origin  https://github.com/derlappen/$RepoName.git
