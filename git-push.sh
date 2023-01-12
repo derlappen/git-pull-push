@@ -1,6 +1,6 @@
 #!/bin/bash
 
-.config.file
+./config.file
 RepoName=echo $RepoName
 TOKEN=echo $TOKEN
 
