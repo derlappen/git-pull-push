@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#TOKEN="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"
-#RepoName="git-pull-push"
-
 source config.file
 
 git init
