@@ -1,6 +1,8 @@
 #!/bin/bash
 
-source /config.file
+source config.file
+RepoName=echo $RepoName
+TOKEN=echo $TOKEN
 
 git init
 git remote add origin  https://github.com/derlappen/$RepoName.git
