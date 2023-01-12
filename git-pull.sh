@@ -1,5 +1,6 @@
 #!/bin/bash
 
+source _config.file
 source config.file
 
 git init
